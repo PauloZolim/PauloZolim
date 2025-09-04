@@ -22,5 +22,17 @@ I have experience in
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
 </p>
 
+My contact: 
+
+## 📫 Contact 
+
+<a href="mailto:paulozolim23@gmail.com">
+  <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+
+<a href="https://discord.com/users/892092508241285150">
+  <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" />
+</a>
+
 
 Let’s keep evolving together! 🚀
